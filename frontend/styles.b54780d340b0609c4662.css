@@ -208,6 +208,17 @@ button {
 
 .single-thing-info p {	margin-bottom: 1.25rem; }
 
+mat-spinner svg {
+    stroke: #5050ff !important;
+    width: 40px !important;
+    height: 40px !important;
+    translate: 30px 30px;
+}
+
+mat-spinner {
+    left: 50%;
+    translate: -50% 0%;
+}
 
 /*
 
